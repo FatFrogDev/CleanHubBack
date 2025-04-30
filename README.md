@@ -7,7 +7,6 @@ Proyecto desarrollado para entrega final __PRIMER BLOQUE-TEORICO-PRACTICO - VIRT
 - [Tecnologías](#Tecnologías)
 - [Dependencias](#Dependencias)
 - [Como ejecutar](#Como-Ejecutar)
-- [End Points](#End-Points)
 
 
 El proyecto está realizado con:
